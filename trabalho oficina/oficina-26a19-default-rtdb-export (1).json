@@ -1,0 +1,128 @@
+{
+  "cliente": [
+    null,
+    {
+      "email": "samirafranca@ifce",
+      "nome": "samira",
+      "rua": "rua dos gatos",
+      "telefone": "(11) 9876-5432"
+    },
+    {
+      "email": "anasales@ifce",
+      "nome": "ana",
+      "rua": "rua dora aventureira",
+      "telefone": "(11) 1234-5678"
+    },
+    {
+      "email": "diegooliveira@ifce",
+      "nome": "diego",
+      "rua": "rua dos carros",
+      "telefone": "(11) 5555-9999"
+    },
+    {
+      "email": "talesramos@ifce",
+      "nome": "ramos",
+      "rua": "rua das florestas",
+      "telefone": "(11) 2222-8888"
+    },
+    {
+      "email": "ericafranca@ifce",
+      "nome": "erica",
+      "rua": " avenida dos carros",
+      "telefone": "(11) 9876-5432"
+    },
+    {
+      "email": "emanuelefranca@ifce",
+      "nome": "emanuele",
+      "rua": "rua dos motores",
+      "telefone": "(11) 7777-3333"
+    },
+    {
+      "email": "joaosilva@ifce",
+      "nome": "joao",
+      "rua": "travessa das rodas",
+      "telefone": "(11) 6286-5432"
+    },
+    {
+      "email": "arthurfranca@ifce",
+      "nome": "arthur",
+      "rua": "rua dos gatos",
+      "telefone": "(11) 9876-9537"
+    },
+    {
+      "email": "emycarvalho@ifce",
+      "nome": "emy",
+      "rua": "rua dos inteligentes",
+      "telefone": "(11) 2829-0174"
+    },
+    {
+      "email": "pryncyserafim@ifce",
+      "nome": "pryncy",
+      "rua": "rua dos ramos",
+      "telefone": "(11) 0475-3652"
+    }
+  ],
+  "veiculo": [
+    null,
+    {
+      "ano": 2019,
+      "marca": "ford",
+      "modelo": "fiesta",
+      "placa": "ABC-1234"
+    },
+    {
+      "ano": 2018,
+      "marca": "toyota",
+      "modelo": "camry",
+      "placa": "DEF-9012"
+    },
+    {
+      "ano": 2017,
+      "marca": "volkswagen",
+      "modelo": "golf",
+      "placa": "GHI-3456"
+    },
+    {
+      "ano": 2019,
+      "marca": "chevrolet",
+      "modelo": "malibu",
+      "placa": "JKL-7890"
+    },
+    {
+      "ano": 2021,
+      "marca": "nissan",
+      "modelo": "altima",
+      "placa": "MNO-2345"
+    },
+    {
+      "ano": 2018,
+      "marca": "hyundai",
+      "modelo": "elantra",
+      "placa": "PQR-6789"
+    },
+    {
+      "ano": 2022,
+      "marca": "BMW",
+      "modelo": "3 series",
+      "placa": "STU-0123"
+    },
+    {
+      "ano": 2020,
+      "marca": "mercedes-benz",
+      "modelo": "c-class",
+      "placa": "VWX-4567"
+    },
+    {
+      "ano": 2021,
+      "marca": "audi",
+      "modelo": "A4",
+      "placa": "YZA-8901"
+    },
+    {
+      "ano": 2020,
+      "marca": "honda",
+      "modelo": "civic",
+      "placa": "XYZ-5678"
+    }
+  ]
+}
